@@ -1,2 +1,1 @@
-language = "nodejs"
-run = "start"
+run = "node_modules/.bin/node index.js"
