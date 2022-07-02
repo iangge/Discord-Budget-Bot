@@ -1,0 +1,23 @@
+{
+  "name": "Discord-Budget-Bot",
+  "version": "1.0.0",
+  "description": "A bot that lets you add or subtract from a budget using slash commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iangge/Discord-Budget-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iangge/Discord-Budget-Bot/issues"
+  },
+  "homepage": "https://github.com/iangge/Discord-Budget-Bot#readme",
+  "devDependencies": {
+    "node": "^16.15.1"
+  }
+}
